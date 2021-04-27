@@ -1,0 +1,36 @@
+body {
+    background-image:url("https://media.istockphoto.com/vectors/abstract-red-light-trail-on-blue-background-vector-id958693744?k=6&m=958693744&s=612x612&w=0&h=8fxI021WWzfZyfu-inVXxR_dejuWCZtGTSSQ6ftg5p4=");
+    
+}
+span {
+    width:100px;
+}
+#underline {
+    width:300px;
+    height:5px;
+    background-color:rgb(255, 255, 255);
+}
+label {
+    color:white;
+    font-size:large;
+    font-family:fantasy;
+}
+#photo_cam, #captured_img{
+    border-radius:30px;
+    width:100px;
+    height:50px;
+ font-family:cursive;
+ background-color:lightskyblue;
+color:black;
+}
+h1 {
+    color:white;
+}
+#camera,#photo {
+    border: 5px double black;
+    width: 350px;
+    height: 300px; 
+  }
+  p {
+      font-size:40px;
+  }
